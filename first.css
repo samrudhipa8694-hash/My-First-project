@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            div {
+                display : block;
+                background-color: blue;
+                padding: 10px
+                margian: 5px
+            }
+        </style>
+    </head>
+    <body>
+        <div> block element 1</div>
+        <div> block element 2</div>
+    </body>
+</html>
